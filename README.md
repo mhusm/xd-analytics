@@ -1,6 +1,13 @@
 # XD-Analytics
 
-This is a cross-device analytics platform.
+XD-Analytics is a cross-device analytics platform. It allows to track multi-device usage of web applications with a focus on detecting parallel usage patterns. The user interface is based on concepts from faceted search.
+
+![Screenshot of XD-Analytics](screenshots/overview.png)
+
+## About this Project
+XD-Analytics is under development at the [Globis Group at ETH Zürich](https://globis.ethz.ch). The project is coordinated by [Maria Husmann](https://globis.ethz.ch/#!/person/maria-husmann/). [Nicola Marcacci Rossi](https://github.com/nicolamr) has contributed to XD-Analytics.
+
+
 
 ## Setup
 
